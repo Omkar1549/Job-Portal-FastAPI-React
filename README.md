@@ -23,7 +23,7 @@ This project was developed to bridge the gap between job seekers and recruiters.
 
 ---
 
-## ✨ Key Features
+## ✨ Key Featurzzes
 - **User Authentication:** Secure Signup/Login for both Job Seekers and Employers.
 - **Job Listings:** Real-time job browsing with filters.
 - **Employer Dashboard:** Post, edit, and manage job openings.
