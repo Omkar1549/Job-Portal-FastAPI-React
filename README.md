@@ -10,16 +10,16 @@ This project was developed to bridge the gap between job seekers and recruiters.
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-* **React.js** (Functional Components, Hooks)
-* **Tailwind CSS** (Modern UI Styling)
-* **Lucide React** (Iconography)
-* **React Hot Toast** (Notifications)
+* **React.js** (Functional Components, Hooks),
+* **Tailwind CSS** (Modern UI Styling),
+* **Lucide React** (Iconography),
+* **React Hot Toast** (Notifications).
 
 ### **Backend**
-* **FastAPI** (Python's fastest web framework)
-* **Pydantic** (Data Validation)
-* **Uvicorn** (ASGI Server)
-* **JWT Auth** (Secure User Sessions)
+* **FastAPI** (Python's fastest web framework),
+* **Pydantic** (Data Validation),
+* **Uvicorn** (ASGI Server),
+* **JWT Auth** (Secure User Sessions).
 
 ---
 
